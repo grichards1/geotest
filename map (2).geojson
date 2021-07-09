@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"Location":"Segment 2"},
+      "properties": {"Data Point":"Segment 2"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -384,7 +384,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"Location":"Segment 1"},
+      "properties": {"Data Point":"Segment 1"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
